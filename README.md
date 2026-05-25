@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I'm currently working on — MERN stack projects<br>🤝 I'm looking to collaborate on — project-based learning with like-minded developers<br>🌿 I'm looking for help with — production-level best practices<br>🌱 I'm currently learning — MERN Stack & sharpening my DSA skills<br>💬 Ask me about — MERN, Python backend, REST APIs, WebSockets<br>⚡ Fun fact — I'm a cat person 🐱
+### 🧍‍♀️ About Me
+ 
+🛠️ **Building, not just learning** - A Computer Science student passionate about building backends that actually work and solving problems through code.
+ 
+🌌 **Where I'm headed** - Specializing in Python backend development (FastAPI, Flask, WebSockets) and currently expanding into the MERN Stack.
+ 
+🪐 **My universe** - Constantly sharpening my skills by practicing Data Structures & Algorithms - one problem a day, no excuses.
+ 
+🧠 **How I think** - Always open to discussing new ideas, tech, collaborations, or just geeking out over code.
+ 
+📫 **Reach me at** - jannumahanthilikhitha@gmail.com
+ 
+---
 
 
 ## 🌐 Socials:
