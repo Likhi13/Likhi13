@@ -1,4 +1,4 @@
-### 🧍‍♀️ About Me
+## 🧍‍♀️ About Me:
  
 🛠️ **Building, not just learning** - A Computer Science student passionate about building backends that actually work and solving problems through code.
  
