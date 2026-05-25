@@ -1,3 +1,5 @@
+<h1 align="center"><em>Likhitha here!</em></h1>
+
 ## 🧍‍♀️ About Me:
  
 🛠️ **Building, not just learning** - A Computer Science student passionate about building backends that actually work and solving problems through code.
@@ -23,10 +25,8 @@
 ![](https://streak-stats.demolab.com/?user=Likhi13&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Likhi13&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🖤 I live by
+"Great code isn't written by those who follow conventions blindly, it's built by those who dare to stay lost long enough to find a better way."
 
----
-[![](https://komarev.com/ghpvc/?username=Likhi13&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
